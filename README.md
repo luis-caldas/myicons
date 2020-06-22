@@ -1,6 +1,6 @@
 # My Icons
 
-Collection of icons that I use
+Collection of icons and cursors that I use
 
 ### Installation
 
